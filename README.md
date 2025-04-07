@@ -24,12 +24,6 @@ A web-based platform designed to streamline the process of finding, applying, an
 - **Responsive Design:**  
   Fully responsive design to ensure accessibility across devices.
 
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap (optional: React.js if used)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
 
 ## 📂 Project Setup
 
